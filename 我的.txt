@@ -65,6 +65,7 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 斗鱼_绵羊料理,http://epg.112114.xyz/douyu/2090684
 
  虎牙,#genre#
+扁豆看电影,http://aldirect.corp-hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8?wsiphost=ipdbme
 周星驰[1],https://epg.112114.xyz/huya/11342412
 林正英[4],https://epg.112114.xyz/huya/11342421
 港台电影[5],https://epg.112114.xyz/huya/880261
