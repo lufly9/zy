@@ -49,9 +49,9 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 影视轮播,#genre#
 鱼丸说电影,https://epg.112114.xyz/huya/16615910
 阿斗归来了,https://epg.112114.xyz/huya/13303478
-扁豆看电影,http://aldirect.corp-hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8?
-小川电影解说,https://epg.112114.xyz/huya/15870999
 扁豆看电影,https://epg.112114.xyz/huya/216028551
+扁豆看电影2,http://aldirect.corp-hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8?
+小川电影解说,https://epg.112114.xyz/huya/15870999
 铁齿铜牙纪晓岚,https://epg.112114.xyz/huya/11342396
 地下交通站,https://epg.112114.xyz/huya/11342433
 康熙微服私访,https://epg.112114.xyz/huya/11342418
