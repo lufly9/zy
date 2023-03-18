@@ -47,6 +47,14 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 浙江卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 影视轮播,#genre#
+鱼丸说电影,https://epg.112114.xyz/huya/16615910
+阿斗归来了,https://epg.112114.xyz/huya/13303478
+扁豆看电影,http://aldirect.corp-hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8?
+小川电影解说,https://epg.112114.xyz/huya/15870999
+扁豆看电影,https://epg.112114.xyz/huya/216028551
+铁齿铜牙纪晓岚,https://epg.112114.xyz/huya/11342396
+地下交通站,https://epg.112114.xyz/huya/11342433
+康熙微服私访,https://epg.112114.xyz/huya/11342418
 斗鱼_李子柒,http://hw-tct.douyucdn.cn/live/2901080rqCm1mY3y.flv
 斗鱼_李子柒,http://hdltc1.douyucdn.cn/live/2901080rqCm1mY3y.flv
 斗鱼_李子柒,http://diyp.112114.xyz/douyu/2901080
@@ -65,7 +73,6 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 斗鱼_绵羊料理,http://epg.112114.xyz/douyu/2090684
 
  虎牙,#genre#
-扁豆看电影,http://aldirect.corp-hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8?wsiphost=ipdbme
 周星驰[1],https://epg.112114.xyz/huya/11342412
 林正英[4],https://epg.112114.xyz/huya/11342421
 港台电影[5],https://epg.112114.xyz/huya/880261
