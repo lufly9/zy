@@ -1,3 +1,18 @@
 央视,#genre#
 CCTV1 综合,rtmp://202.204.52.116:1935/livetv/cctv1hd
 CCTV13 新闻,rtmp://202.204.52.116:1935/livetv/cctv13hd
+CCTV2 财经,rtmp://202.204.52.116:1935/livetv/cctv2hd
+CCTV3 综艺,rtmp://202.204.52.116:1935/livetv/cctv3hd
+CCTV4 中文国际,rtmp://202.204.52.116:1935/livetv/cctv4hd
+CCTV5 体育,rtmp://202.204.52.116:1935/livetv/cctv5hd
+CCTV6 电影,rtmp://202.204.52.116:1935/livetv/cctv6hd
+CCTV7 国防军事,rtmp://202.204.52.116:1935/livetv/cctv7hd
+CCTV8 电视剧,rtmp://202.204.52.116:1935/livetv/cctv8hd
+CCTV9 记录,rtmp://202.204.52.116:1935/livetv/cctv9hd
+CCTV10 科教,rtmp://202.204.52.116:1935/livetv/cctv10hd
+CCTV11 戏曲,rtmp://202.204.52.116:1935/livetv/cctv11hd
+CCTV12 社会与法,rtmp://202.204.52.116:1935/livetv/cctv12hd
+CCTV14 少儿,rtmp://202.204.52.116:1935/livetv/cctv14hd
+CCTV15 音乐,rtmp://202.204.52.116:1935/livetv/cctv15hd
+CCTV6 奥林匹克,rtmp://202.204.52.116:1935/livetv/cctv16hd
+CCTV17 农业农村,rtmp://202.204.52.116:1935/livetv/cctv17hd
