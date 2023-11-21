@@ -14,5 +14,5 @@ CCTV11 戏曲,rtmp://202.204.52.116:1935/livetv/cctv11hd
 CCTV12 社会与法,rtmp://202.204.52.116:1935/livetv/cctv12hd
 CCTV14 少儿,rtmp://202.204.52.116:1935/livetv/cctv14hd
 CCTV15 音乐,rtmp://202.204.52.116:1935/livetv/cctv15hd
-CCTV6 奥林匹克,rtmp://202.204.52.116:1935/livetv/cctv16hd
+CCTV16 奥林匹克,rtmp://202.204.52.116:1935/livetv/cctv16hd
 CCTV17 农业农村,rtmp://202.204.52.116:1935/livetv/cctv17hd
