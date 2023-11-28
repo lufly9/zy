@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1 综,rtmp://202.204.52.116:1935/livetv/cctv1hd
+CCTV1 综合,rtmp://202.204.52.116:1935/livetv/cctv1hd
 CCTV13 新闻,http://devlivepull.migucloud.com/live/3S6PAWLT_C0.flv
 CCTV13 新闻,rtmp://202.204.52.116:1935/livetv/cctv13hd
 CCTV13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
