@@ -1,0 +1,7 @@
+{ "urls": [{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
+
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
+
+{ "urls": [{ "url": "http://肥猫.live/", "name": "肥猫" },
+
+{ "url": "00", "name"自用" }]}
