@@ -8,9 +8,16 @@
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米"
         },
-    {
+{
             "url": "http://肥猫.live/",
             "name": "肥猫"
-        }     
+        },    
+        {
+            "url": "https://gitee.com/ajin0913/xiaobai/raw/master/DM.json",
+            "name": "小白弹幕1"
+        },    {
+            "url": "https://gitee.com/ajin0913/xiaobai/raw/master/DM1.json",
+            "name": "小白弹幕2"
+        }        
     ]
 }
