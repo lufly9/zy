@@ -1,6 +1,5 @@
 央视,#genre#
 CCTV1 综,rtmp://202.204.52.116:1935/livetv/cctv1hd
-CCTV13 新闻,http://devlivepull.migucloud.com/live/3S6PAWLT_C0.flv
 CCTV13 新闻,rtmp://202.204.52.116:1935/livetv/cctv13hd
 CCTV13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV2 财经,rtmp://202.204.52.116:1935/livetv/cctv2hd
@@ -19,7 +18,7 @@ CCTV15 音乐,rtmp://202.204.52.116:1935/livetv/cctv15hd
 CCTV16 奥林匹克,rtmp://202.204.52.116:1935/livetv/cctv16hd
 CCTV17 农业农村,rtmp://202.204.52.116:1935/livetv/cctv17hd
 
-VIP,#genre#
+分享者,#genre#
 Tiny 4K,http://89.248.160.57/iptv/RFPEEUQNURN7MN/6258/index.m3u8
 Tiny 4K,http://89.248.160.57/iptv/Q5MK5AD8A8ZBUA/6258/index.m3u8
 Cum UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/6190/index.m3u8
