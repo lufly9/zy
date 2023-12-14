@@ -18,3 +18,9 @@ CCTV14 少儿,rtmp://202.204.52.116:1935/livetv/cctv14hd
 CCTV15 音乐,rtmp://202.204.52.116:1935/livetv/cctv15hd
 CCTV16 奥林匹克,rtmp://202.204.52.116:1935/livetv/cctv16hd
 CCTV17 农业农村,rtmp://202.204.52.116:1935/livetv/cctv17hd
+
+VIP,#genre#
+Tiny 4K,http://89.248.160.57/iptv/RFPEEUQNURN7MN/6258/index.m3u8
+Tiny 4K,http://89.248.160.57/iptv/Q5MK5AD8A8ZBUA/6258/index.m3u8
+Cum UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/6190/index.m3u8
+Eromania 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/10049/index.m3u8
