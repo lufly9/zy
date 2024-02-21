@@ -23,3 +23,15 @@ Tiny 4K,http://89.248.160.57/iptv/RFPEEUQNURN7MN/6258/index.m3u8
 Tiny 4K,http://89.248.160.57/iptv/Q5MK5AD8A8ZBUA/6258/index.m3u8
 Cum UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/6190/index.m3u8
 Eromania 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/10049/index.m3u8
+复刻,#genre#
+
+Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+siyou,http://146.59.54.163/356/playlist.m3u8
+Dorcel,http://146.59.54.163/345/index.m3u8
+VividRe,http://cdnx1.plusx.tv:8880/361/mono.m3u8?token=65df4b105d30b4b9573333
+Hustler,http://146.59.54.163/348/index.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Penthouse,http://146.59.54.163/353/index.m3u8
+Babes,http://146.59.54.163/354/index.m3u8
+Playboy+,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
