@@ -19,7 +19,8 @@ CCTV16 奥林匹克,rtmp://202.204.52.116:1935/livetv/cctv16hd
 CCTV17 农业农村,rtmp://202.204.52.116:1935/livetv/cctv17hd
 
 复刻,#genre#
-
+松视,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+彩虹,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
 Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 siyou,http://146.59.54.163/356/playlist.m3u8
